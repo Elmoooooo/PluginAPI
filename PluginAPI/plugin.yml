@@ -1,0 +1,5 @@
+name: PluginAPI	
+author: Elmo
+version: 1.0
+main: de.elmo.api.core.PluginAPI
+commands:
