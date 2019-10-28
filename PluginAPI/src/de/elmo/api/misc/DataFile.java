@@ -40,7 +40,7 @@ public class DataFile {
 	}
 
 	public DataFileType getDataFileType() {
-		/* 55 */ return this.dataFileType;
+		return this.dataFileType;
 	}
 
 	public String getFileName() {
